@@ -61,6 +61,10 @@
 1. What is a Hessian matrix?
 
 ## Basics of Probability and Informaion Theory
+
+[QUestions and answers](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
+
+
 1. Compare "Frequentist probability" vs. "Bayesian probability"?
 1. What is a random variable?
 1. What is a probability distribution?
